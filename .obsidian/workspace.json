@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "1890b2c344815da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1922676de435b920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1c5a8ee9219e7c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241212150949.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241212150949"
+            }
+          },
+          {
+            "id": "ca870f28ecf16f19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a898561b2dec758",
+    "type": "split",
+    "children": [
+      {
+        "id": "60961c7dd0175a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b196852bdc14c8fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd9654621abc69d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Group",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d24d8327de54123",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 609.5
+  },
+  "right": {
+    "id": "5b3170db11863dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94dfaeb3e0dab0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e43970beaf2ea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Główne notatki"
+            }
+          },
+          {
+            "id": "4eece49d0b0e3fac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Główne notatki"
+            }
+          },
+          {
+            "id": "0af47e4eb22c0ede",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbebcc5de8f78f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Główne notatki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca870f28ecf16f19",
+  "lastOpenFiles": [
+    "AI/AI/Welcome.md",
+    "AI/AI",
+    "AI",
+    "Nowy folder",
+    "Pasted image 20241212150925.png",
+    "Pasted image 20241212150429.png",
+    "Obsidian/Welcome.md",
+    "Obsidian/5. Templatki/Główne notatki.md",
+    "Obsidian/1. Notatki/Architektura/4. Jak podzielić aplikacje na mniejsze części.md",
+    "Obsidian/1. Notatki/Architektura/3. Budujemy statyczną architekturę programu.md",
+    "Untitled.canvas",
+    "Obsidian/1. Notatki/C# dla .NET/Sekcja 3 Klasy/40. Interfejs.md",
+    "Pasted image 20241212150949.png",
+    "2024-12-12.md",
+    "Obsidian/1. Notatki/SQL/SQL 05 - Sorting and Grouping - ORDER BY.md",
+    "Obsidian/1. Notatki/SQL/SQL 02 - Selecting Data - COUNT, DISTINCT.md",
+    "Obsidian/1. Notatki/SQL/SQL 01 - Querying (SELECT, FROM, Aliasing, DISTINCT, Views, LIMIT).md",
+    "Obsidian/1. Notatki/SQL/SQL 03 - Filtering Records - WHERE, LIMIT, NULL, operators.md",
+    "Obsidian/1. Notatki/SQL/SQL 00 - Konwencje nazewnicze.md",
+    "Obsidian/1. Notatki/Typescript/Typescript 04  - Type aliases, functions, functions literal types, never types.md",
+    "Obsidian/1. Notatki/Typescript/Typescript 03 - Tablice, Obiekty, Tuple, Enumy.md",
+    "Obsidian/1. Notatki/Typescript/Typescript 02.md",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241030084224.png",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241030084502.png",
+    "Obsidian/2. Materiały/Print screeny",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241108093924.png",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241108105830.png",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241108110544.png",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241108114829.png",
+    "Obsidian/2. Materiały/Print screeny/Pasted image 20241108120926.png",
+    "1. Notatki/Typescript/Lesson03 - Tablice, Obiekty, Tuple, Enumy.md",
+    "1. Notatki/Typescript/Lesson02.md",
+    "1. Notatki/Architektura/3. Budujemy statyczną architekturę programu.md",
+    "1. Notatki/Typescript/Lesson04  - Type aliases, functions, functions literal types, never types.md",
+    "1. Notatki/Architektura/3. Budujemy statyczną architekturę programu",
+    "1. Notatki/Architektura",
+    "Welcome.md",
+    "2024-10-31.md",
+    "2. Materiały/Print Screens",
+    "Git.md",
+    "1. Notatki/Typescript",
+    "6. Usystematyzowane/Typescript.md",
+    "Untitled.md",
+    "5. Templatki/Główne notatki.md",
+    "6. Usystematyzowane/dfdf.md",
+    "5. Templatki",
+    "Untitled 1"
+  ]
+}

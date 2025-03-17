@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "1890b2c344815da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "140059671cca505e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3af5f7e7cd9708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Notatki/C# dla .NET/Sekcja 3 Klasy/40. Interfejs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40. Interfejs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a898561b2dec758",
+    "type": "split",
+    "children": [
+      {
+        "id": "60961c7dd0175a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b196852bdc14c8fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd9654621abc69d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d24d8327de54123",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 477.5
+  },
+  "right": {
+    "id": "5b3170db11863dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94dfaeb3e0dab0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e43970beaf2ea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Główne notatki"
+            }
+          },
+          {
+            "id": "4eece49d0b0e3fac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Główne notatki"
+            }
+          },
+          {
+            "id": "0af47e4eb22c0ede",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbebcc5de8f78f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Templatki/Główne notatki.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Główne notatki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b196852bdc14c8fe",
+  "lastOpenFiles": [
+    "Pasted image 20241108155047.png",
+    "Pasted image 20241108154558.png",
+    "Pasted image 20241108154432.png",
+    "Pasted image 20241108154311.png",
+    "Pasted image 20241108154227.png",
+    "Pasted image 20241108154218.png",
+    "Pasted image 20241108154155.png",
+    "1. Notatki/C# dla .NET/Sekcja 3 Klasy",
+    "1. Notatki/SQL/SQL 05 - Sorting and Grouping - ORDER BY.md",
+    "1. Notatki/C# dla .NET/Sekcja 3 Klasy/40. Interfejs.md",
+    "1. Notatki/C# dla .NET",
+    "1. Notatki/SQL/SQL 02 - Selecting Data - COUNT, DISTINCT.md",
+    "Pasted image 20241108134747.png",
+    "Pasted image 20241108134714.png",
+    "Pasted image 20241108134637.png",
+    "Pasted image 20241108134626.png",
+    "1. Notatki/SQL/SQL 00 - Konwencje nazewnicze.md",
+    "1. Notatki/SQL/SQL 01 - Querying (SELECT, FROM, Aliasing, DISTINCT, Views, LIMIT).md",
+    "1. Notatki/SQL/SQL 04 - Aggreate functions - MIN, MAX, AVG, itp.md",
+    "1. Notatki/Typescript/Typescript 02.md",
+    "1. Notatki/Typescript/Typescript 03 - Tablice, Obiekty, Tuple, Enumy.md",
+    "1. Notatki/Typescript/Typescript 04  - Type aliases, functions, functions literal types, never types.md",
+    "1. Notatki/SQL/SQL 03 - Filtering Records - WHERE, LIMIT, NULL, operators.md",
+    "2024-11-08.md",
+    "1. Notatki/SQL",
+    "Welcome.md",
+    "Git.md",
+    "1. Notatki/Typescript",
+    "6. Usystematyzowane/Typescript.md",
+    "Untitled.md",
+    "5. Templatki/Główne notatki.md",
+    "6. Usystematyzowane/dfdf.md",
+    "6. Usystematyzowane/dfd.md",
+    "6. Usystematyzowane/Nowy.md",
+    "5. Templatki",
+    "Untitled 1",
+    "6. Usystematyzowane",
+    "4. Indeksy",
+    "3. Tagi",
+    "2. Materiały/pdfy"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "aa894a64df9332fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "70173a8be6bbc38d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf89ce966b89011a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maria Parysz - kurs z LinkedIN/4. Data/4.1 Data is the new oil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Data is the new oil"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61cd06204837c14b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e14cb0f5d7ce52d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b205857bf9f3d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "236aa7c6a609ee2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f04c433fd886e7b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b88166653caa503",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa01ac836316f0d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a9a2cb64e1e3ebb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3336f50ee62bed70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "34bfda7d0e222635",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "067759fb2bceb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf89ce966b89011a",
+  "lastOpenFiles": [
+    "Maria Parysz - kurs z LinkedIN/4. Data/4.1 Data is the new oil.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.7 GenAI risks.md",
+    "Maria Parysz - kurs z LinkedIN/4. Data",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.6 Practical GenAI applications for companies.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.5 Agents and multimodal LLMs.md",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250314084136.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313154637.png",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.4 RAG architecture.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.3 Fine-tuning and chatbots.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.1 GenAI revolution.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie/3.2 LLMs.md",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.2 Other AI implementation options (pozostałe metody implementacji AI).md",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.4 CRISP_DM and AI project management.md",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313153255.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313113845.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313153059.png",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.3 Acquiring AI software (rodzaje modeli AI).md",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.1 Steps to build AI solutions.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.10 Voice.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.9 Smell, taste, touch.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.8 Computer vision.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.7 Recommendations.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.6 Optimization Applications.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.5 Predictions.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.4 Fraud detection.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.3 Robotics.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.2 RPA (robotic process automation).md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.1 Gartner Hype Cycle - Wstęp.md",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.5 Connecting AI models to systems.md",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions/1.6 Data science stack.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.14 NLP.md",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI/2.13 AR, VR and the metaverse.md",
+    "Maria Parysz - kurs z LinkedIN/3. GenAI World - Generowanie",
+    "Pasted image 20250313140218.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313135923.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313140034.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313133937.png",
+    "Maria Parysz - kurs z LinkedIN/Załączniki/Pasted image 20250313133744.png",
+    "Maria Parysz - kurs z LinkedIN/1. How to Build AI Solutions",
+    "Maria Parysz - kurs z LinkedIN/2. AI Building Blocks - Zastosowania AI",
+    "Maria Parysz - kurs z LinkedIN/Załączniki",
+    "Maria Parysz - kurs z LinkedIN"
+  ]
+}
